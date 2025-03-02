@@ -13,8 +13,11 @@
 				"D:/Github/CS465-Project/CS465_Project/Content/Levels/Level3.umap",
 				"D:/Github/CS465-Project/CS465_Project/Content/Levels/StartLevel.umap",
 				"D:/Github/CS465-Project/CS465_Project/Content/VRTemplate/VFX/NS_MenuLaser.uasset",
-				"D:/Github/CS465-Project/CS465_Project/Content/Blueprints/IMC_.uasset",
-				"D:/Github/CS465-Project/CS465_Project/Content/Blueprints/IMC_TestMenu.uasset"
+				"D:/Github/CS465-Project/CS465_Project/Content/Blueprints/IMC_TestMenu.uasset",
+				"D:/Github/CS465-Project/CS465_Project/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"D:/Github/CS465-Project/CS465_Project/Content/VRTemplate/Input/Actions/IA_Menu_Click_Left.uasset",
+				"D:/Github/CS465-Project/CS465_Project/Content/VRTemplate/Input/Actions/IA_Menu_Click_Right.uasset",
+				"D:/Github/CS465-Project/CS465_Project/Content/Blueprints/IMC_.uasset"
 			]
 		}
 	]
