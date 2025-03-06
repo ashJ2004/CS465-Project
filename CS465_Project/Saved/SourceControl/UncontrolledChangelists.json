@@ -17,6 +17,8 @@
 				"D:/Github/CS465-Project/CS465_Project/Content/VRTemplate/Blueprints/VRPawn.uasset",
 				"D:/Github/CS465-Project/CS465_Project/Content/VRTemplate/Input/Actions/IA_Menu_Click_Left.uasset",
 				"D:/Github/CS465-Project/CS465_Project/Content/VRTemplate/Input/Actions/IA_Menu_Click_Right.uasset",
+				"D:/Github/CS465-Project/CS465_Project/Content/Blueprints/SpawnUIElement.uasset",
+				"D:/Github/CS465-Project/CS465_Project/Content/VRTemplate/Input/IMC_Default.uasset",
 				"D:/Github/CS465-Project/CS465_Project/Content/Blueprints/IMC_.uasset"
 			]
 		}
