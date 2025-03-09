@@ -5,7 +5,21 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Github/CS465-Project/CS465_Project/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"D:/Github/CS465-Project/CS465_Project/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Github/CS465-Project/CS465_Project/Content/Blueprints/BP_TestMenu.uasset",
+				"D:/Github/CS465-Project/CS465_Project/Content/Blueprints/StartMenu.uasset",
+				"D:/Github/CS465-Project/CS465_Project/Content/Levels/Level1.umap",
+				"D:/Github/CS465-Project/CS465_Project/Content/Levels/Level2.umap",
+				"D:/Github/CS465-Project/CS465_Project/Content/Levels/Level3.umap",
+				"D:/Github/CS465-Project/CS465_Project/Content/Levels/StartLevel.umap",
+				"D:/Github/CS465-Project/CS465_Project/Content/VRTemplate/VFX/NS_MenuLaser.uasset",
+				"D:/Github/CS465-Project/CS465_Project/Content/Blueprints/IMC_TestMenu.uasset",
+				"D:/Github/CS465-Project/CS465_Project/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"D:/Github/CS465-Project/CS465_Project/Content/VRTemplate/Input/Actions/IA_Menu_Click_Left.uasset",
+				"D:/Github/CS465-Project/CS465_Project/Content/VRTemplate/Input/Actions/IA_Menu_Click_Right.uasset",
+				"D:/Github/CS465-Project/CS465_Project/Content/Blueprints/SpawnUIElement.uasset",
+				"D:/Github/CS465-Project/CS465_Project/Content/VRTemplate/Input/IMC_Default.uasset",
+				"D:/Github/CS465-Project/CS465_Project/Content/Blueprints/IMC_.uasset"
 			]
 		}
 	]
