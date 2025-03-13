@@ -6,7 +6,7 @@ https://youtu.be/XbOubLtajyY
 
 Project Walkthrough:
 
-*link here*
+https://youtu.be/u9up6drr6_Y
 
 Overleaf Document:
 
